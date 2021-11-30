@@ -1,0 +1,30 @@
+{
+    "posts": [],
+    "projects": [{
+            "id": 1,
+            "title": "Padio",
+            "uniqueName": "padio",
+            "shortDescription": "24/7 lofi, pop, sad, goodlife, ... radio",
+            "image": "https://cdn.discordapp.com/attachments/742397180026814516/891794552673951885/Padio.png",
+            "url": "https://bit.ly/padiobot"
+        },
+        {
+            "id": 2,
+            "title": "Greez",
+            "uniqueName": "greez",
+            "shortDescription": "A helpful Discord bot. fun, tools, ... comands.",
+            "image": "https://cdn.discordapp.com/attachments/742397180026814516/892026506392522792/sph_4.png",
+            "url": "https://bit.ly/greezbot"
+        }
+    ],
+    "skills": [{
+            "id": 1,
+            "title": "Javascript",
+            "rate": "70%"
+        },
+        { "id": 2, "title": "Python", "rate": "20%" },
+        { "id": 3, "title": "discord.js", "rate": "90%" },
+        { "id": 4, "title": "Discord configuration", "rate": "99%" },
+        { "id": 5, "title": "Photoshop", "rate": "55%" }
+    ]
+}
