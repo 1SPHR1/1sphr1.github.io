@@ -1,30 +1,56 @@
 {
     "posts": [],
-    "projects": [{
+    "projects": [
+        {
             "id": 1,
-            "title": "Padio",
-            "uniqueName": "padio",
-            "shortDescription": "24/7 lofi, pop, sad, goodlife, ... radio",
-            "image": "https://cdn.discordapp.com/attachments/742397180026814516/891794552673951885/Padio.png",
-            "url": "https://1sphr1.github.io/l/padio"
+            "title": "Lidoma Bot",
+            "uniqueName": "lidoma",
+            "shortDescription": "Register members and manage tournaments of official Lidoma Discord server.",
+            "image": "https://cdn.discordapp.com/attachments/742397180026814516/997240682693546074/Lidoma.png",
+            "url": "https://discord.gg/lidoma"
         },
         {
             "id": 2,
+            "title": "Padio",
+            "uniqueName": "padio",
+            "shortDescription": "24/7 lofi, pop, sad, goodlife, ... radio.",
+            "image": "https://cdn.discordapp.com/attachments/742397180026814516/891794552673951885/Padio.png",
+            "url": "https://1sphr1.github.io/link/padio"
+        },
+        {
+            "id": 3,
             "title": "Greez",
             "uniqueName": "greez",
             "shortDescription": "A helpful Discord bot. fun, tools, ... comands.",
             "image": "https://cdn.discordapp.com/attachments/742397180026814516/892026506392522792/sph_4.png",
-            "url": "https://1sphr1.github.io/l/greez"
+            "url": "https://1sphr1.github.io/link/greez"
         }
     ],
-    "skills": [{
+    "skills": [
+        {
             "id": 1,
             "title": "Javascript",
             "rate": "70%"
         },
-        { "id": 2, "title": "Python", "rate": "20%" },
-        { "id": 3, "title": "discord.js", "rate": "90%" },
-        { "id": 4, "title": "Discord configuration", "rate": "99%" },
-        { "id": 5, "title": "Photoshop", "rate": "55%" }
+        {
+            "id": 2,
+            "title": "Python",
+            "rate": "20%"
+        },
+        {
+            "id": 3,
+            "title": "discord.js",
+            "rate": "90%"
+        },
+        {
+            "id": 4,
+            "title": "Discord configuration",
+            "rate": "99%"
+        },
+        {
+            "id": 5,
+            "title": "Photoshop",
+            "rate": "55%"
+        }
     ]
 }
