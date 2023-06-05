@@ -22,15 +22,15 @@
             "title": "Padio",
             "uniqueName": "padio",
             "shortDescription": "24/7 lofi, pop, sad, goodlife, ... radio.",
-            "image": "https://cdn.discordapp.com/attachments/742397180026814516/891794552673951885/Padio.png",
+            "image": "https://cdn.discordapp.com/attachments/742397180026814516/1115324176736194560/Padio-bw.png",
             "url": "https://1sphr1.github.io/l/padio"
         },
         {
             "id": 4,
             "title": "Greez",
             "uniqueName": "greez",
-            "shortDescription": "A helpful Discord bot. fun, tools, ... comands.",
-            "image": "https://cdn.discordapp.com/attachments/742397180026814516/892026506392522792/sph_4.png",
+            "shortDescription": "A helpful Discord bot. fun, tools, ... commands.",
+            "image": "https://cdn.discordapp.com/attachments/742397180026814516/1115324122059243612/Greez-bw.png",
             "url": "https://1sphr1.github.io/l/greez"
         }
     ],
