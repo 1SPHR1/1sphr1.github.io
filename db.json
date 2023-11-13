@@ -15,7 +15,7 @@
             "uniqueName": "harmony",
             "shortDescription": "Harmony is a bot with almost 50 stations live 24/7 for chilling out with friends and having fun.",
             "image": "https://cdn.discordapp.com/attachments/983080612690788442/1064207151679148213/Harmony.png",
-            "url": "https://1sphr1.github.io/l/harmony"
+            "url": "https://sphrlbd.github.io/l/harmony"
         },
         {
             "id": 3,
@@ -23,7 +23,7 @@
             "uniqueName": "padio",
             "shortDescription": "24/7 lofi, pop, sad, goodlife, ... radio.",
             "image": "https://cdn.discordapp.com/attachments/742397180026814516/1115324176736194560/Padio-bw.png",
-            "url": "https://1sphr1.github.io/l/padio"
+            "url": "https://sphrlbd.github.io/l/padio"
         },
         {
             "id": 4,
@@ -31,7 +31,7 @@
             "uniqueName": "greez",
             "shortDescription": "A helpful Discord bot. fun, tools, ... commands.",
             "image": "https://cdn.discordapp.com/attachments/742397180026814516/1115324122059243612/Greez-bw.png",
-            "url": "https://1sphr1.github.io/l/greez"
+            "url": "https://sphrlbd.github.io/l/greez"
         }
     ],
     "skills": [
