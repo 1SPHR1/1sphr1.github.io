@@ -10,7 +10,7 @@ import { useState, useEffect } from "react";
 import Home from "./pages/Home";
 import Mode from "./components/Mode";
 import PostView from "./pages/PostView";
-const endPoint = "https://1sphr1.github.io/";
+const endPoint = "https://slbd.ir/";
 // const endPoint = "http://localhost:5000/";
 function App() {
 	// Theme State
