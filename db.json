@@ -3,6 +3,14 @@
     "projects": [
         {
             "id": 1,
+            "title": "Iran MTB",
+            "uniqueName": "lidoma",
+            "shortDescription": "Iran MTB Website",
+            "image": "https://irmtb.ir/static/images/logo_embed.png",
+            "url": "https://irmtb.ir/"
+        },
+        {
+            "id": 2,
             "title": "Lidoma Bot",
             "uniqueName": "lidoma",
             "shortDescription": "Register members and manage tournaments of official Lidoma Discord server.",
@@ -10,7 +18,7 @@
             "url": "https://discord.gg/lidoma"
         },
         {
-            "id": 2,
+            "id": 3,
             "title": "Harmony",
             "uniqueName": "harmony",
             "shortDescription": "Harmony is a bot with almost 50 stations live 24/7 for chilling out with friends and having fun.",
@@ -18,7 +26,7 @@
             "url": "https://sphrlbd.github.io/l/harmony"
         },
         {
-            "id": 3,
+            "id": 4,
             "title": "Padio",
             "uniqueName": "padio",
             "shortDescription": "24/7 lofi, pop, sad, goodlife, ... radio.",
@@ -26,7 +34,7 @@
             "url": "https://sphrlbd.github.io/l/padio"
         },
         {
-            "id": 4,
+            "id": 5,
             "title": "Greez",
             "uniqueName": "greez",
             "shortDescription": "A helpful Discord bot. fun, tools, ... commands.",
@@ -37,26 +45,36 @@
     "skills": [
         {
             "id": 1,
-            "title": "Javascript",
-            "rate": "80%"
-        },
-        {
-            "id": 2,
             "title": "Python",
             "rate": "90%"
         },
         {
+            "id": 2,
+            "title": "Django",
+            "rate": "70%"
+        },
+        {
             "id": 3,
+            "title": "Tailwind",
+            "rate": "99%"
+        },
+        {
+            "id": 4,
+            "title": "Javascript",
+            "rate": "80%"
+        },
+        {
+            "id": 5,
             "title": "discord.js",
             "rate": "90%"
         },
         {
-            "id": 4,
+            "id": 6,
             "title": "Discord configuration",
-            "rate": "99%"
+            "rate": "100%"
         },
         {
-            "id": 5,
+            "id": 7,
             "title": "Photoshop",
             "rate": "55%"
         }
