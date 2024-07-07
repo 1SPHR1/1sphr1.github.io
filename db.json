@@ -11,14 +11,22 @@
         },
         {
             "id": 2,
-            "title": "Lidoma Bot",
+            "title": "Cafe Bazaar Discord Bot",
+            "uniqueName": "cafebazaar",
+            "shortDescription": "Ticket system and manage tournaments of Bazaar Craft Discord server.",
+            "image": "https://slbd.ir/images/CafeBazaar.png",
+            "url": "https://discord.gg/bazaarcraft"
+        },
+        {
+            "id": 3,
+            "title": "Lidoma Discord Bot",
             "uniqueName": "lidoma",
             "shortDescription": "Register members and manage tournaments of official Lidoma Discord server.",
             "image": "https://slbd.ir/images/Lidoma.png",
             "url": "https://discord.gg/lidoma"
         },
         {
-            "id": 3,
+            "id": 4,
             "title": "Harmony",
             "uniqueName": "harmony",
             "shortDescription": "Harmony is a bot with almost 50 stations live 24/7 for chilling out with friends and having fun.",
@@ -26,7 +34,7 @@
             "url": "https://slbd.ir/l/harmony"
         },
         {
-            "id": 4,
+            "id": 5,
             "title": "Padio",
             "uniqueName": "padio",
             "shortDescription": "24/7 lofi, pop, sad, goodlife, ... radio.",
@@ -34,7 +42,7 @@
             "url": "https://slbd.ir/l/padio"
         },
         {
-            "id": 5,
+            "id": 6,
             "title": "Greez",
             "uniqueName": "greez",
             "shortDescription": "A helpful Discord bot. fun, tools, ... commands.",
